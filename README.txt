@@ -1,6 +1,6 @@
 
 TITLE: 
-King - 100% Fully Responsive Free HTML5 Bootstrap Template
+Marble - Fully Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
@@ -36,13 +36,21 @@ https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 animate.css
 http://daneden.me/animate
 
-jQuery Waypoint
+jQuery Waypoints
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 Demo Images:
-http://unsplash.com
+http://pexels.com
 
-Samsung Phone
-http://graphicburger.com
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
 
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+jQuery counTo
+https://github.com/mhuggins/jquery-countTo
+
+Google Map
+https://maps.google.com/
 
